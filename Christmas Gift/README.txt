@@ -1,0 +1,2 @@
+A simple application  that allows a child to choose gifts for Christmas, one from Category A and two from Category B, and returns a letter to Father Christmas requesting the gifts.
+Uses If statements.
