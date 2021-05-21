@@ -1,0 +1,9 @@
+C:\Users\Nthabeleng Jimson\Desktop\Christmas Gift\bin\Debug\Christmas Gift.exe.config
+C:\Users\Nthabeleng Jimson\Desktop\Christmas Gift\bin\Debug\Christmas Gift.exe
+C:\Users\Nthabeleng Jimson\Desktop\Christmas Gift\bin\Debug\Christmas Gift.pdb
+C:\Users\Nthabeleng Jimson\Desktop\Christmas Gift\obj\Debug\Christmas Gift.csprojAssemblyReference.cache
+C:\Users\Nthabeleng Jimson\Desktop\Christmas Gift\obj\Debug\Christmas_Gift.Form1.resources
+C:\Users\Nthabeleng Jimson\Desktop\Christmas Gift\obj\Debug\Christmas_Gift.Properties.Resources.resources
+C:\Users\Nthabeleng Jimson\Desktop\Christmas Gift\obj\Debug\Christmas Gift.csproj.GenerateResource.cache
+C:\Users\Nthabeleng Jimson\Desktop\Christmas Gift\obj\Debug\Christmas Gift.exe
+C:\Users\Nthabeleng Jimson\Desktop\Christmas Gift\obj\Debug\Christmas Gift.pdb
