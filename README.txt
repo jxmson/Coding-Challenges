@@ -1,1 +1,0 @@
-This program generates quotes for a carpet salesman depending on the area specified by the user.
