@@ -1,0 +1,11 @@
+C:\Users\Nthabeleng Jimson\Desktop\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.csprojAssemblyReference.cache
+C:\Users\Nthabeleng Jimson\Desktop\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.AssemblyInfoInputs.cache
+C:\Users\Nthabeleng Jimson\Desktop\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.AssemblyInfo.cs
+C:\Users\Nthabeleng Jimson\Desktop\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.exe
+C:\Users\Nthabeleng Jimson\Desktop\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.deps.json
+C:\Users\Nthabeleng Jimson\Desktop\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.runtimeconfig.json
+C:\Users\Nthabeleng Jimson\Desktop\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.runtimeconfig.dev.json
+C:\Users\Nthabeleng Jimson\Desktop\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.dll
+C:\Users\Nthabeleng Jimson\Desktop\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.pdb
+C:\Users\Nthabeleng Jimson\Desktop\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.dll
+C:\Users\Nthabeleng Jimson\Desktop\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.pdb
