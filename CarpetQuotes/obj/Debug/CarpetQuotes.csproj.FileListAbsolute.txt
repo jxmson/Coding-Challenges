@@ -1,0 +1,9 @@
+C:\Users\Nthabeleng Jimson\Desktop\CarpetQuotes\obj\Debug\CarpetQuotes.csprojAssemblyReference.cache
+C:\Users\Nthabeleng Jimson\Desktop\CarpetQuotes\obj\Debug\CarpetQuotes.frmQuotes.resources
+C:\Users\Nthabeleng Jimson\Desktop\CarpetQuotes\obj\Debug\CarpetQuotes.Properties.Resources.resources
+C:\Users\Nthabeleng Jimson\Desktop\CarpetQuotes\obj\Debug\CarpetQuotes.csproj.GenerateResource.cache
+C:\Users\Nthabeleng Jimson\Desktop\CarpetQuotes\bin\Debug\CarpetQuotes.exe.config
+C:\Users\Nthabeleng Jimson\Desktop\CarpetQuotes\bin\Debug\CarpetQuotes.exe
+C:\Users\Nthabeleng Jimson\Desktop\CarpetQuotes\bin\Debug\CarpetQuotes.pdb
+C:\Users\Nthabeleng Jimson\Desktop\CarpetQuotes\obj\Debug\CarpetQuotes.exe
+C:\Users\Nthabeleng Jimson\Desktop\CarpetQuotes\obj\Debug\CarpetQuotes.pdb
