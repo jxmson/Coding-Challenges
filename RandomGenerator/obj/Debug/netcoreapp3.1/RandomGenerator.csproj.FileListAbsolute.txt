@@ -1,0 +1,11 @@
+C:\Users\Nthabeleng Jimson\Desktop\RandomGenerator\bin\Debug\netcoreapp3.1\RandomGenerator.exe
+C:\Users\Nthabeleng Jimson\Desktop\RandomGenerator\bin\Debug\netcoreapp3.1\RandomGenerator.deps.json
+C:\Users\Nthabeleng Jimson\Desktop\RandomGenerator\bin\Debug\netcoreapp3.1\RandomGenerator.runtimeconfig.json
+C:\Users\Nthabeleng Jimson\Desktop\RandomGenerator\bin\Debug\netcoreapp3.1\RandomGenerator.runtimeconfig.dev.json
+C:\Users\Nthabeleng Jimson\Desktop\RandomGenerator\bin\Debug\netcoreapp3.1\RandomGenerator.dll
+C:\Users\Nthabeleng Jimson\Desktop\RandomGenerator\bin\Debug\netcoreapp3.1\RandomGenerator.pdb
+C:\Users\Nthabeleng Jimson\Desktop\RandomGenerator\obj\Debug\netcoreapp3.1\RandomGenerator.csprojAssemblyReference.cache
+C:\Users\Nthabeleng Jimson\Desktop\RandomGenerator\obj\Debug\netcoreapp3.1\RandomGenerator.AssemblyInfoInputs.cache
+C:\Users\Nthabeleng Jimson\Desktop\RandomGenerator\obj\Debug\netcoreapp3.1\RandomGenerator.AssemblyInfo.cs
+C:\Users\Nthabeleng Jimson\Desktop\RandomGenerator\obj\Debug\netcoreapp3.1\RandomGenerator.dll
+C:\Users\Nthabeleng Jimson\Desktop\RandomGenerator\obj\Debug\netcoreapp3.1\RandomGenerator.pdb
