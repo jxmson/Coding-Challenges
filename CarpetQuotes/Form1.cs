@@ -35,27 +35,32 @@ namespace CarpetQuotes
 
         private void btnQuote_Click(object sender, EventArgs e)
         {
-            double l = double.Parse(txtLength.Text);
-            double w = double.Parse(txtWidth.Text);
+            if (String.IsNullOrEmpty(txtLength.Text) || String.IsNullOrEmpty(txtWidth.Text))
+                MessageBox.Show("Please enter all room dimensions", "Missing room dimensions", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            else
+            {
+                double l = double.Parse(txtLength.Text);
+                double w = double.Parse(txtWidth.Text);
 
-            double price = 0;
+                double price = 0;
 
-            if ((string)cmbCarpet.SelectedItem == "Type A (R120 /m^2)")
-                price = Area(l, w) * 120;
-            else if ((string)cmbCarpet.SelectedItem == "Type B (R110 /m^2)")
-                price = Area(l, w) * 110;
-            else if ((string)cmbCarpet.SelectedItem == "Type C (R100 /m^2)")
-                price = Area(l, w) * 100;
-            else if ((string)cmbCarpet.SelectedItem == "Type D (R90 /m^2)")
-                price = Area(l, w) * 90;
-            else if ((string)cmbCarpet.SelectedItem == "Type E (R80 /m^2)")
-                price = Area(l, w) * 80;
-            else if ((string)cmbCarpet.SelectedItem == "Type F (R70 /m^2)")
-                price = Area(l, w) * 70;
-            else if ((string)cmbCarpet.SelectedItem == "Type G (R60 /m^2)")
-                price = Area(l, w) * 60;
-           
-            MessageBox.Show("The price quoted for a carpet " + txtLength.Text + "m by " + txtWidth.Text + "m = R" + price.ToString(),"Carpet Quotation", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                if ((string)cmbCarpet.SelectedItem == "Type A (R120 /m^2)")
+                    price = Area(l, w) * 120;
+                else if ((string)cmbCarpet.SelectedItem == "Type B (R110 /m^2)")
+                    price = Area(l, w) * 110;
+                else if ((string)cmbCarpet.SelectedItem == "Type C (R100 /m^2)")
+                    price = Area(l, w) * 100;
+                else if ((string)cmbCarpet.SelectedItem == "Type D (R90 /m^2)")
+                    price = Area(l, w) * 90;
+                else if ((string)cmbCarpet.SelectedItem == "Type E (R80 /m^2)")
+                    price = Area(l, w) * 80;
+                else if ((string)cmbCarpet.SelectedItem == "Type F (R70 /m^2)")
+                    price = Area(l, w) * 70;
+                else if ((string)cmbCarpet.SelectedItem == "Type G (R60 /m^2)")
+                    price = Area(l, w) * 60;
+
+                MessageBox.Show("The price quoted for a carpet " + txtLength.Text + "m by " + txtWidth.Text + "m = R" + price.ToString(),"Carpet Quotation", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
         }
 
         private void btnClose_Click(object sender, EventArgs e)
